@@ -11,3 +11,4 @@ console.log(!false);
  //  FALSE
  console.log(false && false);
  // FALSE
+ console.log(!false);
