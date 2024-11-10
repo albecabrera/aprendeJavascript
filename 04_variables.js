@@ -26,4 +26,4 @@ console.log(num+8); // 40
 console.log(num);
 
 num = num +10;
-console.log(num);
+console.log(num); // 42
