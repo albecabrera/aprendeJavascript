@@ -15,5 +15,5 @@ console.log("Alberto".indexOf("to"));
 //CONCATENAR STRINGS
 console.log("Hola" + " " +"mundo");
 //CONCATENAR STRINGS
-console.log("Hola" + " " +"(nombre)");
+
 
