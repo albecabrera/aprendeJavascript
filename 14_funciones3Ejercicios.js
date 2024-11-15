@@ -18,4 +18,13 @@ function esPar(numeroArgumento) {
     return false
   }
 }
-console.log(numeroArgumento(2));
+console.log(esPar(8));
+
+
+// ESTO ES UNA FORMA MUCHO MÁS FÁCIL
+function esPar2(numero) {
+  return numero % 2 == 0;
+
+}
+console.log(esPar(5));
+
