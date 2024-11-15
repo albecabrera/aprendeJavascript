@@ -1,2 +1,2 @@
-document.write('Hola Mundo!') // Cargar en consola
-alert("Hola mundo");
+document.write('Que pasa paisano!') // Cargar en consola
+alert("Que pasa hombre!");
