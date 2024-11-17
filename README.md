@@ -22,7 +22,5 @@
 - bucles
 - for
 - bucles
-``` 
-fizzBuzz
-```
+\_fizzBuzz\_
 
