@@ -35,6 +35,22 @@ function saludar() {
 
 saludar();
 
+
 // Declaración y asignación de una constante
 const PI = 3.1416;
 console.log(PI); // Imprime 3.1416 en la consola
+
+
+function calcularPromedio(numeros) {
+  var suma = 0;
+  for (var i = 0; i < numeros.length; i++) {
+    suma += numeros[i];
+  }
+  var promedio = suma / numeros.length;
+  return promedio;
+}
+
+var numeros = [2, 4, 6, 8];
+var promedio = calcularPromedio(numeros);
+console.log(promedio); // Imprime 5 en la consola
+console.log(suma); // Error: la variable "suma" solo está definida dentro de la función "calcularPromedio"
