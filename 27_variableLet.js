@@ -34,3 +34,4 @@ function foo() {
   console.log(x); // output: 10
   console.log(y); // Uncaught ReferenceError: y is not defined
 }
+
