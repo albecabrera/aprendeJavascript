@@ -44,3 +44,5 @@ console.log("Color agregado:", AUTO.color); // Salida: Color agregado: Rojo
 // Eliminar una propiedad del objeto
 delete AUTO.year;
 console.log("Propiedad 'año' eliminada:", AUTO.year); // Salida: Propiedad 'año' eliminada: undefined
+
+const FRUITS = ["apple", "banana", "cherry"];
